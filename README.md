@@ -40,7 +40,13 @@ flowchart TD
 - Xây dựng **glossary**: định nghĩa các field, quy tắc mapping nghiệp vụ.  
 
 👉 Ảnh minh họa:  
-![EDA1](EDA1.png)
+![EDA1](Assets/EDA1.png)
+<p align="center">
+  <img src="Assets/EDA1.png" width="30%">
+  <img src="Assets/EDA2.png" width="30%">
+  <img src="Assets/EDA3.png" width="30%">
+</p>
+
 
 ---
 
@@ -49,7 +55,9 @@ flowchart TD
 - Tổ chức dữ liệu theo mô hình Data Warehouse.  
 
 👉 Ảnh minh họa:  
-![DDL](Assets/ddl1.png)
+![DDL2](Assets/ddl2.png)
+![DDL4](Assets/ddl4.png)
+![DDL5](Assets/ddl5.png)
 
 ---
 
