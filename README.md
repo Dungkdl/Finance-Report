@@ -41,12 +41,8 @@ flowchart TD
 
 👉 Ảnh minh họa:  
 ![EDA1](Assets/EDA1.png)
-<p align="center">
-  <img src="Assets/EDA1.png" width="30%">
-  <img src="Assets/EDA2.png" width="30%">
-  <img src="Assets/EDA3.png" width="30%">
-</p>
-
+![EDA2](Assets/EDA2.png)
+![EDA3](Assets/EDA3.png)
 
 ---
 
@@ -66,7 +62,8 @@ flowchart TD
 - Viết script `mapping.sql` để kiểm tra ánh xạ dữ liệu giữa raw data → postgres.  
 
 👉 Ảnh minh họa:  
-![Validate](assets/validate.png)
+![Import1](Assets/import1.png)
+![Import2](Assets/import2.png)
 
 ---
 
@@ -76,7 +73,9 @@ flowchart TD
  
 
 👉 Ảnh minh họa:  
-![Procedure](assets/procedure.png)
+![Procedure](Assets/procedure6.png)
+![Procedure](Assets/procedure2.png)
+![Procedure](Assets/procedure4.png)
 
 ---
 
@@ -85,7 +84,9 @@ flowchart TD
 - Kết nối Power BI với PostgreSQL bằng cách sử dụng Direct Query.  
 
 👉 Ảnh minh họa:  
-![PBI Query](assets/pbi.png)
+![VIEW4](Assets/view4.png)
+![VIEW3](Assets/view3.png)
+![VIEW2](Assets/view2.png)
 
 ---
 
@@ -95,7 +96,9 @@ flowchart TD
 - Demo online: [Link Power BI Demo](#) *(cập nhật sau)*  
 
 👉 Ảnh minh họa:  
-![Dashboard](assets/dashboard.png)
+![Page1](Assets/PAGE1.png)
+![Page2](Assets/PAGE2.png)
+![Page3](Assets/PAGE3.png)
 
 ---
 
