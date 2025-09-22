@@ -49,7 +49,7 @@ flowchart TD
 - Tổ chức dữ liệu theo mô hình Data Warehouse.  
 
 👉 Ảnh minh họa:  
-![DDL](assets/ddl.png)
+![DDL](Assets/ddl1.png)
 
 ---
 
