@@ -25,10 +25,12 @@ Mục tiêu là **xây dựng data pipeline chuẩn hóa** từ raw data → das
 ## 3. Flowchart
 ```mermaid
 flowchart TD
-    A[📊 Excel - Dữ liệu thô] -->|Import qua 🦫 DBeaver| B[(🐘 PostgreSQL)]
-    B --> C[⚙️ PL/pgSQL xử lý<br/>Tạo bảng Dim/Fact]
-    B -->|Direct Query| D[📈 Power BI]
-    D --> E[📊Trực quan hóa & Báo cáo]
+    A[📊 Excel - Dữ liệu thô] -->|Import qua 🦫 DBeaver| B[(🐘 PostgreSQL - STG Layer)]
+    B -->|PL/pgSQL xử lý| C[(DW Layer - Dim/Fact Tables)]
+    C --> D[(RPT Layer - Views/Reporting)]
+    D -->|Direct Query| E[📈 Power BI]
+    E --> F[📊 Trực quan hóa & Báo cáo]
+
 ```
 ---
 
