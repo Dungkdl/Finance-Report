@@ -95,7 +95,7 @@ flowchart TD
 ### 4f. Page Dashboard
 - Thiết kế dashboard trực quan bằng Power BI. 
 - Ví dụ các page : Tổng quan doanh nghiệp , Báo cáo kết quả kinh doanh , Báo cáo nhân sự , Tổng quan KPI - ASM ...
-- Demo online: [Xem tại đây](https://shorturl.at/IMqRV)
+- Demo online: [Xem tại đây](https://app.powerbi.com/view?r=eyJrIjoiNDYxYWEwNWUtZDZjOC00MzE2LWEzZTMtYzhlNGM5ZDBhZjkxIiwidCI6ImQ2ZDEzZTBlLTdjYTAtNDNkNC05OTY1LTQyZDM4ZWU1M2RkYSIsImMiOjEwfQ%3D%3D)
  
 
 👉 Ảnh minh họa:  
