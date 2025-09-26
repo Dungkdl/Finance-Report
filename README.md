@@ -123,12 +123,12 @@ flowchart TD
 
 ### Các bước chạy
 1. Tạo schema trong PostgreSQL.  
-2. Chạy các script trong `scripts/ddl/` để tạo bảng raw, dim, fact.  
+2. Chạy các script trong `DDL.sql` để tạo bảng raw, dim, fact.  
 3. Import dữ liệu từ Excel/CSV vào PostgreSQL (qua DBeaver).  
 4. Chạy `scripts/mapping.sql` để validate dữ liệu.  
-5. Chạy các procedure trong `scripts/procedures/` để xử lý logic nghiệp vụ.  
+5. Chạy các procedure trong `scripts/Procedures/` để xử lý logic nghiệp vụ.  
 6. Kết nối Power BI với PostgreSQL qua Direct Query.  
-7. Import query trong `scripts/pbi/queries.sql` và dựng dashboard.  
+7. Import query trong `scripts/View.sql` và dựng dashboard.  
 
 ---
 
