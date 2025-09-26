@@ -107,7 +107,7 @@ flowchart TD
 ## 5. Giá trị đạt được (Gain Value)
 - Thành thạo **SQL & PL/SQL** trong xử lý dữ liệu.  
 - Sử dụng **DBeaver** để quản lý database.  
-- Kỹ năng xây dựng **Power BI Dashboard** trực quan đạt mức khá.  
+- Kỹ năng xây dựng **Power BI Dashboard** trực quan đạt mức giỏi.  
 - Hiểu rõ **end-to-end data pipeline**: từ raw data → postgres → báo cáo.
 -  Có cái nhìn trực quan về luồng xử lí , phân tích báo cáo. 
 - Bổ sung kiến thức nghiệp vụ **fintech (sao kê thẻ, chỉ số tài chính, tín dụng)**.
